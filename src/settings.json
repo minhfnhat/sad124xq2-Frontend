@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond.",
+        "title": "Discover Your Next Adventure with Us"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover Your Next Adventure with Us",
+  "subtitle": "Unleash endless possibilities with our innovative solutions tailored for your unique needs. Join us on a journey to excellence and beyond."
+}
